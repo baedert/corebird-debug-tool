@@ -1,0 +1,207 @@
+{
+  "created_at" : "Fri Jun 05 07:00:17 +0000 2015",
+  "id" : 606717158286979072,
+  "id_str" : "606717158286979072",
+  "text" : "TIS-100 players fav this tweet if you missed it before. Not this tweet, the referenced one. https://t.co/7ismxCX8Ob",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated" : false,
+  "in_reply_to_status_id" : null,
+  "in_reply_to_status_id_str" : null,
+  "in_reply_to_user_id" : null,
+  "in_reply_to_user_id_str" : null,
+  "in_reply_to_screen_name" : null,
+  "user" : {
+    "id" : 1070541,
+    "id_str" : "1070541",
+    "name" : "Sean Barrett",
+    "screen_name" : "nothings",
+    "location" : "Kirkland, WA",
+    "description" : "game developer (LGS (Thief 1 etc), indie (Promesst etc)), author of stb_ libraries, Indie Game Jam cofounder, prefers OpenGL, at RAD Game Tools developing Iggy",
+    "url" : "http://t.co/oDRApovEWe",
+    "entities" : {
+      "url" : {
+        "urls" : [
+          {
+            "url" : "http://t.co/oDRApovEWe",
+            "expanded_url" : "http://nothings.org",
+            "display_url" : "nothings.org",
+            "indices" : [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description" : {
+        "urls" : [
+        ]
+      }
+    },
+    "protected" : false,
+    "followers_count" : 4325,
+    "friends_count" : 188,
+    "listed_count" : 147,
+    "created_at" : "Tue Mar 13 05:32:07 +0000 2007",
+    "favourites_count" : 6050,
+    "utc_offset" : -25200,
+    "time_zone" : "Pacific Time (US & Canada)",
+    "geo_enabled" : false,
+    "verified" : false,
+    "statuses_count" : 22461,
+    "lang" : "en",
+    "contributors_enabled" : false,
+    "is_translator" : false,
+    "is_translation_enabled" : false,
+    "profile_background_color" : "131516",
+    "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile" : true,
+    "profile_image_url" : "http://pbs.twimg.com/profile_images/584194617827958784/UT76_1om_normal.png",
+    "profile_image_url_https" : "https://pbs.twimg.com/profile_images/584194617827958784/UT76_1om_normal.png",
+    "profile_link_color" : "227777",
+    "profile_sidebar_border_color" : "EEEEEE",
+    "profile_sidebar_fill_color" : "EFEFEF",
+    "profile_text_color" : "333333",
+    "profile_use_background_image" : true,
+    "default_profile" : false,
+    "default_profile_image" : false,
+    "following" : true,
+    "follow_request_sent" : false,
+    "notifications" : false
+  },
+  "geo" : null,
+  "coordinates" : null,
+  "place" : null,
+  "contributors" : null,
+  "quoted_status_id" : 606673550368370689,
+  "quoted_status_id_str" : "606673550368370689",
+  "quoted_status" : {
+    "created_at" : "Fri Jun 05 04:07:00 +0000 2015",
+    "id" : 606673550368370689,
+    "id_str" : "606673550368370689",
+    "text" : ".@zachtronics plz consider option to show global best scores. suspect solutions discrete enough to appeal to &gt;1%. (Audience: fav to approve)",
+    "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated" : false,
+    "in_reply_to_status_id" : null,
+    "in_reply_to_status_id_str" : null,
+    "in_reply_to_user_id" : null,
+    "in_reply_to_user_id_str" : null,
+    "in_reply_to_screen_name" : null,
+    "user" : {
+      "id" : 1070541,
+      "id_str" : "1070541",
+      "name" : "Sean Barrett",
+      "screen_name" : "nothings",
+      "location" : "Kirkland, WA",
+      "description" : "game developer (LGS (Thief 1 etc), indie (Promesst etc)), author of stb_ libraries, Indie Game Jam cofounder, prefers OpenGL, at RAD Game Tools developing Iggy",
+      "url" : "http://t.co/oDRApovEWe",
+      "entities" : {
+        "url" : {
+          "urls" : [
+            {
+              "url" : "http://t.co/oDRApovEWe",
+              "expanded_url" : "http://nothings.org",
+              "display_url" : "nothings.org",
+              "indices" : [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description" : {
+          "urls" : [
+          ]
+        }
+      },
+      "protected" : false,
+      "followers_count" : 4325,
+      "friends_count" : 188,
+      "listed_count" : 147,
+      "created_at" : "Tue Mar 13 05:32:07 +0000 2007",
+      "favourites_count" : 6050,
+      "utc_offset" : -25200,
+      "time_zone" : "Pacific Time (US & Canada)",
+      "geo_enabled" : false,
+      "verified" : false,
+      "statuses_count" : 22461,
+      "lang" : "en",
+      "contributors_enabled" : false,
+      "is_translator" : false,
+      "is_translation_enabled" : false,
+      "profile_background_color" : "131516",
+      "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile" : true,
+      "profile_image_url" : "http://pbs.twimg.com/profile_images/584194617827958784/UT76_1om_normal.png",
+      "profile_image_url_https" : "https://pbs.twimg.com/profile_images/584194617827958784/UT76_1om_normal.png",
+      "profile_link_color" : "227777",
+      "profile_sidebar_border_color" : "EEEEEE",
+      "profile_sidebar_fill_color" : "EFEFEF",
+      "profile_text_color" : "333333",
+      "profile_use_background_image" : true,
+      "default_profile" : false,
+      "default_profile_image" : false,
+      "following" : true,
+      "follow_request_sent" : false,
+      "notifications" : false
+    },
+    "geo" : null,
+    "coordinates" : null,
+    "place" : null,
+    "contributors" : null,
+    "is_quote_status" : false,
+    "retweet_count" : 0,
+    "favorite_count" : 16,
+    "entities" : {
+      "hashtags" : [
+      ],
+      "symbols" : [
+      ],
+      "user_mentions" : [
+        {
+          "screen_name" : "zachtronics",
+          "name" : "Zachtronics",
+          "id" : 195263493,
+          "id_str" : "195263493",
+          "indices" : [
+            1,
+            13
+          ]
+        }
+      ],
+      "urls" : [
+      ]
+    },
+    "favorited" : false,
+    "retweeted" : false,
+    "lang" : "en"
+  },
+  "is_quote_status" : true,
+  "retweet_count" : 0,
+  "favorite_count" : 0,
+  "entities" : {
+    "hashtags" : [
+    ],
+    "symbols" : [
+    ],
+    "user_mentions" : [
+    ],
+    "urls" : [
+      {
+        "url" : "https://t.co/7ismxCX8Ob",
+        "expanded_url" : "https://twitter.com/nothings/status/606673550368370689",
+        "display_url" : "twitter.com/nothings/statu…",
+        "indices" : [
+          92,
+          115
+        ]
+      }
+    ]
+  },
+  "favorited" : false,
+  "retweeted" : false,
+  "possibly_sensitive" : false,
+  "possibly_sensitive_appealable" : false,
+  "lang" : "en"
+}
